@@ -10,6 +10,8 @@
 
 @interface ViewController ()
 
+@property (strong, nonatomic) IBOutlet UILabel *label;
+
 @end
 
 @implementation ViewController
@@ -17,7 +19,10 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+
+    self.label.font = [UIFont fontWithName:@"JennaSue" size:36];
+    
+
 }
 
 - (void)didReceiveMemoryWarning

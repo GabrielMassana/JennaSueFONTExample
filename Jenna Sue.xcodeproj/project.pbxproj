@@ -21,6 +21,7 @@
 		06551841197D26DF00F07188 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 06551823197D26DE00F07188 /* UIKit.framework */; };
 		06551849197D26DF00F07188 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 06551847197D26DF00F07188 /* InfoPlist.strings */; };
 		0655184B197D26DF00F07188 /* Jenna_SueTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0655184A197D26DF00F07188 /* Jenna_SueTests.m */; };
+		06551855197D272700F07188 /* JennaSue.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 06551854197D26E900F07188 /* JennaSue.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		06551846197D26DF00F07188 /* Jenna SueTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Jenna SueTests-Info.plist"; sourceTree = "<group>"; };
 		06551848197D26DF00F07188 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0655184A197D26DF00F07188 /* Jenna_SueTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Jenna_SueTests.m; sourceTree = "<group>"; };
+		06551854197D26E900F07188 /* JennaSue.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = JennaSue.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				06551834197D26DF00F07188 /* ViewController.h */,
 				06551835197D26DF00F07188 /* ViewController.m */,
 				06551837197D26DF00F07188 /* Images.xcassets */,
+				06551854197D26E900F07188 /* JennaSue.ttf */,
 				06551826197D26DE00F07188 /* Supporting Files */,
 			);
 			path = "Jenna Sue";
@@ -228,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				06551855197D272700F07188 /* JennaSue.ttf in Resources */,
 				06551838197D26DF00F07188 /* Images.xcassets in Resources */,
 				0655182A197D26DE00F07188 /* InfoPlist.strings in Resources */,
 				06551833197D26DF00F07188 /* Main.storyboard in Resources */,
